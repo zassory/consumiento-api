@@ -1,0 +1,10 @@
+h1{
+    color: white;
+    text-transform: uppercase;
+}
+
+#label-buscar{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
